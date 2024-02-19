@@ -1,4 +1,4 @@
 title: Mithun T M
 logo: /assets/imgs/profile_pic.png
 show_downloads: true
-themes: jekyll-theme-minimal
+remote_theme: pages-themes/minimal@v0.2.0
